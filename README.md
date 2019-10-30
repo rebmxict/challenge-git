@@ -34,6 +34,7 @@ POST /api/gserve/1/file
 ### Errors
 #### 400
 Number of `CLOSED_SHELL` > 1 ? `A multi-body part`
+
 Number of `CLOSED_SHELL` == 0 ? `A geometry is not detected in this file.`
 
 
